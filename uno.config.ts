@@ -1,4 +1,4 @@
-# UnoCSS Configuration
+// UnoCSS Configuration
 import { defineConfig, presetUno, presetAttributify, presetIcons } from 'unocss'
 
 export default defineConfig({
