@@ -1,5 +1,5 @@
 import { describe, it, expect, beforeEach } from 'vitest'
-import { calculateInvoiceTotal, calculateItemAmount } from '../calculate'
+import { calculateInvoiceTotal, calculateItemAmount } from '../src/calculate'
 
 describe('calculateItemAmount', () => {
   it('should calculate item amount correctly', () => {
